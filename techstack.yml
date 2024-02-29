@@ -2,7 +2,7 @@ repo_name: ramzimalhas/browserless
 report_id: 6b35fb271f929b6a9b1c5b1f9645b78c
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-23T06:59:20+00:00'
+timestamp: '2024-02-29T19:32:55+00:00'
 requested_by: Kikobeats
 provider: github
 branch: main
@@ -132,7 +132,7 @@ tools:
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-11-22 14:07:36.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 3.1.0
   license: MIT
